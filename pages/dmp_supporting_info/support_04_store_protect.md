@@ -115,7 +115,7 @@ Storage solution examples (non-exhaustive):
 * Online document services
 	* E.g. Overleaf, Googledocs
 * Online platforms offering software-as-a-service
-
+	* [ELN RSpace](https://uit-rspace.researchspace.com/) provided by UiT
 #### Information security level(s) your storage solution will be used for
 While the general information security levels used at Norwegian higher educational institutions are similar to each other (open/ green, limited/ yellow, confidential/ red, strictly confidential/ black), the actual classification of which data falls into which category and which solution is allowed for which security level might vary between institutions and from case to case. Be aware that dual use research and restricted information may need to follow separate provisions.
 
